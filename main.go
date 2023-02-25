@@ -6,6 +6,8 @@ import (
 	"strings"
 )
 
+//node sruct
+
 type node struct {
 	value int
 	left  *node
